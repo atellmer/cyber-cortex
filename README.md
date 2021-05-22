@@ -1,1 +1,1 @@
-# cyber-cortex - artifical inntelligence platform for crypocurrency trading
+# cyber-cortex - artificial intelligence platform for cryptocurrency trading
